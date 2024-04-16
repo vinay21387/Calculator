@@ -21,7 +21,7 @@ Calculate the square root of a number by pressing the "√" button.
 Determine percentages by clicking the "%" button.
 
 Getting Started:
-Clone the Repository: git clone https://github.com/your_username/your_repository.git
+Clone the Repository: git clone https://github.com/vinay21387/Calculator.git
 Open in VS Code: Open the project folder in Visual Studio Code or your preferred code editor.
 Run the Application: Open the index.html file in your browser to use the calculator.
 
